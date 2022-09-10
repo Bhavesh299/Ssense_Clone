@@ -2,7 +2,7 @@
 
 ## About 
 
-This is a clone of the SSense website (url : https://www.ssense.com/en-in)
+This is a clone of the Ssense website (url : https://www.ssense.com/en-in)
 
 SSENSE is a multi-brand retailer based in Montreal, Canada specialising in the sale of designer fashion and high end streetwear.
 
