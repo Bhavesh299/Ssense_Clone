@@ -19,6 +19,4 @@ We deployed the front-end on Vercel and the backend on Heroku.
 Live
 https://ssenseprojectclone.vercel.app/
 
-Reference Images
-
 
