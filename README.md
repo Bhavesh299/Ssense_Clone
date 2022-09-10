@@ -15,6 +15,7 @@ ES6 JavaScript
 NodeJs
 MongoDB
 npm packages
+
 We deployed the front-end on Vercel and the backend on Heroku.
 
 Live
